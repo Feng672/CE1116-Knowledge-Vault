@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Requirimientos/Requerimientos funcionales.md",
-                "mode": "source",
-                "source": false
+                "file": "IA/Problemas o comportamiento/Alucinaciones.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Requerimientos funcionales"
+              "title": "Alucinaciones"
             }
           }
         ]
@@ -185,31 +185,34 @@
   },
   "active": "4a5692d8ef7f8af1",
   "lastOpenFiles": [
+    "IA/NLP/Ventana de Contexto.md",
+    "IA/Modelos/Mecanismo de Atención.md",
+    "IA/Modelos/Arquitectura Transformer.md",
+    "IA/Modelos/Función de activación.md",
+    "IA/Modelos/Redes neuronales.md",
+    "IA/NLP/Embeddings.md",
+    "IA/NLP/Tokenización.md",
+    "IA/Problemas o comportamiento/Alucinaciones.md",
+    "IA/Problemas o comportamiento",
+    "IA/Modelos",
+    "IA/NLP",
+    "IA",
+    "08_Templates/Atomic Template.md",
     "05_Pruebas/Pruebas Funcionales.md",
+    "02_Requirimientos/Entrevistas.md",
+    "02_Requirimientos/Requerimientos de negocio.md",
+    "02_Requirimientos/Requerimientos de sistema.md",
+    "02_Requirimientos/Requerimientos funcionales.md",
+    "02_Requirimientos/Requerimientos no funcionales.md",
+    "02_Requirimientos/Stakeholder.md",
+    "02_Requirimientos/User Story.md",
     "01_Procesos de Desarrollo/Sprint Planning.md",
     "01_Procesos de Desarrollo/Definition of Done (DoD).md",
-    "02_Requirimientos/User Story.md",
     "01_Procesos de Desarrollo/Taskboard.md",
     "01_Procesos de Desarrollo/Product Owner.md",
     "01_Procesos de Desarrollo/Planning Poker.md",
     "01_Procesos de Desarrollo/Story Points.md",
     "01_Procesos de Desarrollo/Velocity.md",
-    "01_Procesos de Desarrollo/Sprint Backlog.md",
-    "01_Procesos de Desarrollo/Product Backlog.md",
-    "01_Procesos de Desarrollo/Scrum.md",
-    "01_Procesos de Desarrollo/Filosofía ágil.md",
-    "02_Requirimientos/Requerimientos no funcionales.md",
-    "02_Requirimientos/Requerimientos funcionales.md",
-    "02_Requirimientos/Requerimientos de sistema.md",
-    "02_Requirimientos/Requerimientos de negocio.md",
-    "02_Requirimientos/Stakeholder.md",
-    "03_Arquitectura y Diseño/Microservicios.md",
-    "04_Implementación/Estándares de Programación.md",
-    "05_Pruebas/Pruebas Unitarias.md",
-    "06_Despliegue e Infrastructura/Azure DevOps.md",
-    "07_Mantenimiento/Monitoreo de Aplicación.md",
-    "08_Templates/Atomic Template.md",
-    "02_Requirimientos/Entrevistas.md",
-    "00_Inbox/Ejemplo Nueva Nota.md"
+    "01_Procesos de Desarrollo/Sprint Backlog.md"
   ]
 }
